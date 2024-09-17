@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LorenzoTettamanti
 - 👀 I’m interested in Physics, Simulations, IoT, OS Development
-- 🌱 I’m currently learning OS Development
+- 🌱 I’m currently learning OS Development,Rust
 - 💞️ I’m looking to collaborate on Physics, Simulations, IoT
 - 📫 lorenzo.tettamanti5@gmail.com
 
