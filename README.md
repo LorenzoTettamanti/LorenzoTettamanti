@@ -13,9 +13,21 @@
 
 - 📫 How to reach me **lorenzo.tettamanti5@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<h3 align="left">My Blog</h3>
+<table>
+  <tr>
+    <th>Article</th>
+    <th>Date Published</th>
+  </tr>
+  <tr>
+    <td>Kubernetes Explained: Benefits, Use Cases, and Why Airbnb,Spotify and CERN Rely on It 🤖</td>
+    <td>Jan 1 2025 </td>
+  </tr>
+  <tr>
+    <td>Kubernetes Explained: Understanding the Key Components Driving Modern Infrastructure ⚙️</td>
+    <td>Jan 5 2025</td>
+  </tr>
+</table>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" alt="rust" width="40" height="40"/> </a> </p>
