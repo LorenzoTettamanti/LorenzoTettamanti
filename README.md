@@ -20,11 +20,11 @@
     <th>Date Published</th>
   </tr>
   <tr>
-    <td>Kubernetes Explained: Benefits, Use Cases, and Why Airbnb,Spotify and CERN Rely on It 🤖</td>
+    <td href="https://dev.to/lorenzo_tettamanti/kubernetes-explained-benefits-use-cases-and-why-airbnbspotify-and-cern-rely-on-it--315f">Kubernetes Explained: Benefits, Use Cases, and Why Airbnb,Spotify and CERN Rely on It 🤖</td>
     <td>Jan 1 2025 </td>
   </tr>
   <tr>
-    <td>Kubernetes Explained: Understanding the Key Components Driving Modern Infrastructure ⚙️</td>
+    <td href="https://dev.to/lorenzo_tettamanti/kubernetes-explained-understanding-the-key-components-driving-modern-infrastructure-4eef">Kubernetes Explained: Understanding the Key Components Driving Modern Infrastructure ⚙️</td>
     <td>Jan 5 2025</td>
   </tr>
 </table>
