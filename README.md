@@ -13,18 +13,26 @@
 
 - 📫 How to reach me **lorenzo.tettamanti5@gmail.com**
 
-<h3 align="left">My Blog</h3>
+<h3 align="center">My Blog</h3>
 <table>
   <tr>
     <th>Article</th>
     <th>Date Published</th>
   </tr>
   <tr>
-    <td href="https://dev.to/lorenzo_tettamanti/kubernetes-explained-benefits-use-cases-and-why-airbnbspotify-and-cern-rely-on-it--315f">Kubernetes Explained: Benefits, Use Cases, and Why Airbnb,Spotify and CERN Rely on It 🤖</td>
+    <td>
+    <a href ="https://dev.to/lorenzo_tettamanti/kubernetes-explained-benefits-use-cases-and-why-airbnbspotify-and-cern-rely-on-it--315f">
+        Kubernetes Explained: Benefits, Use Cases, and Why Airbnb,Spotify and CERN Rely on It 🤖
+    </a>
+    </td>
     <td>Jan 1 2025 </td>
   </tr>
   <tr>
-    <td href="https://dev.to/lorenzo_tettamanti/kubernetes-explained-understanding-the-key-components-driving-modern-infrastructure-4eef">Kubernetes Explained: Understanding the Key Components Driving Modern Infrastructure ⚙️</td>
+    <td>
+    <a href ="https://dev.to/lorenzo_tettamanti/kubernetes-explained-understanding-the-key-components-driving-modern-infrastructure-4eef">
+       Kubernetes Explained: Understanding the Key Components Driving Modern Infrastructure ⚙️
+    </a>
+    </td>
     <td>Jan 5 2025</td>
   </tr>
 </table>
