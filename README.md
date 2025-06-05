@@ -45,7 +45,7 @@
   </tr>
   <tr>
     <td>
-    <a href ="https://blog.cortexflow.org/the-proxy-injector/">
+    <a href ="https://blog.cortexflow.org/how-to-build-an-automatic-proxy-injector-for-kubernetes/">
        Service Mesh Explained: Building a Proxy Injector in Rust (with Code)
     </a>
     </td>
