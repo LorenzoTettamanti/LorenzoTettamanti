@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lorenzo Tettamanti</h1>
-<h3 align="center">I’m interested in Physics, Simulations, IoT, OS Development</h3>
+<h3 align="center">I’m interested in Physics, Simulations, OS Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lorenzotettamanti&label=Profile%20views&color=0e75b6&style=flat" alt="lorenzotettamanti" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [CortexFlow](https://github.com/CortexFlow)
 
-- 🌱 I’m currently learning **Rust, OS Development**
+- 🌱 I’m currently learning **Rust, OS Development,eBPF**
 
-- 👯 I’m looking to collaborate on **Physics, Simulations, IoT**
+- 👯 I’m looking to collaborate on **Physics, Simulations, Telemetry**
 
 - 📫 How to reach me **lorenzo.tettamanti5@gmail.com**
 
